@@ -1,5 +1,5 @@
 [programs.localnet]
-on_chain_program = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+on_chain_program = "4t53tuAJ4KCwidZj1NEdossDWokEpexyzg6CBAKg4toM"
 
 [registry]
 url = "https://anchor.projectserum.com"
